@@ -148,7 +148,7 @@ int main()
 akhir :
     cout<<"anda keluar dari program\n\n";
 
-
+getch();
  }
 
 
